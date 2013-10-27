@@ -12,4 +12,4 @@ felicidad. El presidente Nicolás Maduro anunció la creación del
 
 El nuevo organismo, dijo, tendrá como tarea coordinar distintos programas del gobierno, fundamentalmente enfocados en el área social.
 
-Prece que el nombre se le ocurrió a la señora Maduro.
+Parece que el nombre se le ocurrió a la señora Maduro.
