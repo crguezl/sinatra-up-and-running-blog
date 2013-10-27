@@ -11,6 +11,11 @@ end
 desc "help"
 task :help do
   puts %q{
+  Once you have your repository set up on GitHub, go to the "Admin" section,
+  navigate to "service Hooks", and add a Post-Receive URL pointing to the 
+  "/update" endpoint of your blog.
+
+  Then:
      1.- Modify one of the articles in articles/
      2.- git ci -m 'modified article' -a
      3.- git push origin master
