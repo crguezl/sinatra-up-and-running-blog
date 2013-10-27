@@ -20,13 +20,13 @@ class GithubHook < Sinatra::Base
     last_modified settings.commit_date
   end
 
-  post '/update' do
+  get '/update' do
     settings.parse_git
     app.settings.reset!
     load app.settings.app_file
     content_type :txt
     if settings.autopull?
-      `git pull 2>&1`
+      `git pull origin master 2>&1`
     else
       "ok"
     end
