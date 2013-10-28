@@ -21,3 +21,4 @@ gem 'sinatra'
 # Fixed following the indication above.
 gem 'redcarpet'
 gem 'rdiscount' # the one mentioned in the book, page 93
+gem 'thin'

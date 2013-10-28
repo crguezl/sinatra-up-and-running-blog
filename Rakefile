@@ -5,7 +5,7 @@ end
 
 desc "run server in production mode"
 task :production => %w{config.ru} do #  modular_application1.rb
-  sh "rackup -E production -Ilib -s thin -p 4567"
+  sh "bundle exec rackup -E production -Ilib -s thin -p 4567"
 end
 
 desc "help"
