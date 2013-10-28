@@ -15,9 +15,9 @@ class GithubHook < Sinatra::Base
   parse_git
 
   before do
-    cache_control :public, :must_revalidate
-    etag settings.commit_hash
-    last_modified settings.commit_date
+#    cache_control :public, :must_revalidate
+#    etag settings.commit_hash
+#    last_modified settings.commit_date
   end
 
   #get '/update' do
