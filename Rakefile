@@ -16,10 +16,11 @@ task :help do
   "/update" endpoint of your blog.
 
   Then:
-     1.- Modify one of the articles in articles/
-     2.- git ci -m 'modified article' -a
-     3.- git push origin master
-     4.- Visit localhost:4567/ and then the modified article in the web browser
+     1.- Run "rake production"
+     2.- Modify one of the articles in articles/
+     3.- git ci -m 'modified article' -a
+     4.- git push origin master
+     5.- Visit localhost:4567/ and then the modified article in the web browser
   }
 end
 
