@@ -8,6 +8,16 @@ task :production => %w{config.ru} do #  modular_application1.rb
   sh "bundle exec rackup -E production -Ilib -s thin -p 4567"
 end
 
+desc "run server in production mode in exthost2"
+task :etsii => %w{config.ru} do #  modular_application1.rb
+  sh "bundle exec rackup -E production -Ilib -I/home/casiano/gems/ruby/2.0.0/gems/ -s thin -p 4567"
+end
+
+desc "locally install gems in ETSII"
+task :install do
+  sh "bundle install --path ~/gems"
+end
+
 desc "help"
 task :help do
   puts %q{
