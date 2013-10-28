@@ -22,14 +22,14 @@ class GithubHook < Sinatra::Base
 
   #get '/update' do
   post '/update' do
-    push = JSON.parse(params[:payload])
+    #push = JSON.parse(params[:payload])
 
     settings.parse_git
     app.settings.reset!
     load app.settings.app_file
     content_type :txt
     if settings.autopull?
-      output = "I got some JSON: #{push.inspect}"
+      #output = "I got some JSON: #{push.inspect}"
       output += `git pull origin master 2>&1`
     else
       "ok"

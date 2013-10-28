@@ -13,3 +13,5 @@ felicidad. El presidente Nicolás Maduro anunció la creación del
 El nuevo organismo, dijo, tendrá como tarea coordinar distintos programas del gobierno, fundamentalmente enfocados en el área social.
 
 Parece que el nombre se le ocurrió a la señora Maduro.
+
+La República Bolivariana de Venezuela
