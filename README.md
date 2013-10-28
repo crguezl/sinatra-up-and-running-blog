@@ -2,9 +2,8 @@ Sinatra Up And Running. Chapter 5. Your Own Blog Engine
 ======================
 
 * Modifications of the one in
-[https://github.com/markzero/Sinatra-Up-And-Running-Practice]
-(https://github.com/markzero/Sinatra-Up-And-Running-Practice)  by
-markzero (Marko Jakic)
+[https://github.com/markzero/Sinatra-Up-And-Running-Practice](https://github.com/markzero/Sinatra-Up-And-Running-Practice)  
+by markzero (Marko Jakic)
 
 * Once you have your repository set up on GitHub, go to the `Admin` section,
   navigate to `service Hooks`, and add a Post-Receive URL pointing to the 
