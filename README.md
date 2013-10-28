@@ -20,7 +20,8 @@ markzero (Marko Jakic)
 
      4- `git push origin master`
 
-     5- Visit `localhost:4567/` and then the modified article in the web browser
+     5- Visit `localhost:4567/` and then the modified article in the web browser. Of course
+        use another port
 
 
 * TODO: Click "reload" to produce the "reload" (git pull origin master and subsequent update)
