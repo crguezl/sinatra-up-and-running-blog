@@ -8,7 +8,7 @@ Maduro había creado en agosto el Sistema Nacional de Misiones con el nombre de 
 
 El gobierno venezolano parece estar tomándose muy en serio la
 felicidad. El presidente Nicolás Maduro anunció la creación del
-"Viceministerio para la Suprema Felicidad Social del Pueblo".
+"VICEMINISTERIO PARA LA SUPREMA FELICIDAD SOCIAL DEL PUEBLO".
 
 El nuevo organismo, dijo, tendrá como tarea coordinar distintos programas del gobierno, fundamentalmente enfocados en el área social.
 
