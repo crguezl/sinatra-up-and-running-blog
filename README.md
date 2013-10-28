@@ -6,9 +6,9 @@ Sinatra Up And Running. Chapter 5. Your Own Blog Engine
 (https://github.com/markzero/Sinatra-Up-And-Running-Practice)  by
 markzero (Marko Jakic)
 
-* Once you have your repository set up on GitHub, go to the "Admin" section,
-  navigate to "service Hooks", and add a Post-Receive URL pointing to the 
-  "/update" endpoint of your blog.
+* Once you have your repository set up on GitHub, go to the `Admin` section,
+  navigate to `service Hooks`, and add a Post-Receive URL pointing to the 
+  `/update` endpoint of your blog.
 
   Then:
 
