@@ -14,4 +14,6 @@ El nuevo organismo, dijo, tendrá como tarea coordinar distintos programas del g
 
 Parece que el nombre se le ocurrió a la señora Maduro.
 
-La República Bolivariana de Venezuela
+La República Bolivariana de Venezuela 
+Barquisimeto
+

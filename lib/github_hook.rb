@@ -30,7 +30,7 @@ class GithubHook < Sinatra::Base
     content_type :txt
     if settings.autopull?
       #output = "I got some JSON: #{push.inspect}"
-      output += `git pull origin master 2>&1`
+      output = `git pull origin master 2>&1`
     else
       "ok"
     end
