@@ -18,6 +18,11 @@ task :install do
   sh "bundle install --path ~/gems"
 end
 
+desc "See if the port is taken"
+task :port do
+  sh "lsof -i | less"
+end
+
 desc "help"
 task :help do
   puts %q{
