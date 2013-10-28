@@ -2,6 +2,7 @@ title: Javier Marias. Suerte que no hay simios en Ohio
 date: 2013-10-27
 
 Maravilloso artículo de Javier Marías en el País:
+==============
 
 ...
 Pues bien, admitiendo la posibilidad de que yo sea un cretino –nunca
