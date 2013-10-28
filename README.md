@@ -2,7 +2,8 @@ Sinatra Up And Running. Chapter 5. Your Own Blog Engine
 ======================
 
 * Modifications of the one in
-https://github.com/markzero/Sinatra-Up-And-Running-Practice  by
+[https://github.com/markzero/Sinatra-Up-And-Running-Practice]
+(https://github.com/markzero/Sinatra-Up-And-Running-Practice)  by
 markzero (Marko Jakic)
 
 * Once you have your repository set up on GitHub, go to the "Admin" section,
@@ -11,13 +12,13 @@ markzero (Marko Jakic)
 
   Then:
 
-     1.- Modify one of the articles in articles/
+     1.- Modify one of the articles in `articles/``
 
-     2.- git ci -m 'modified article' -a
+     2.- `git ci -m 'modified article' -a`
 
-     3.- git push origin master
+     3.- `git push origin master`
 
-     4.- Visit localhost:4567/ and then the modified article in the web browser
+     4.- Visit `localhost:4567/` and then the modified article in the web browser
 
 
 * TODO: Click "reload" to produce the "reload" (git pull origin master and subsequent update)
